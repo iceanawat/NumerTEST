@@ -10,7 +10,6 @@
     "antd": "^3.26.20",
     "axios": "^0.19.2",
     "mathjs": "^6.6.5",
-    "node-sass": "^4.13.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",
